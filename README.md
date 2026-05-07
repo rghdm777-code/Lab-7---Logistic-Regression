@@ -1,1 +1,1 @@
-# Lab-7---Logistic-Regression
+# Lab-7-Logistic-Regression
